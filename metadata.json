@@ -1,0 +1,5 @@
+{
+  "name": "AI Virtual Try-On",
+  "description": "Upload a photo of yourself and a photo of an outfit to see how it would look on you. This app uses generative AI to create a virtual try-on experience.",
+  "requestFramePermissions": []
+}
